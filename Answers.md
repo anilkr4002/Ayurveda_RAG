@@ -1,7 +1,7 @@
 
 
 
-# Kerala Ayurveda – RAG System Assignment 
+# Kerala Ayurveda – RAG System
 
 # Part A – Small RAG Design 
 
@@ -217,3 +217,4 @@ answer_user_query(query):
 * Most interesting part: designing guardrails that maintain accuracy and brand tone.
 * Still unclear: how closely wording must match the original team’s style.
 * AI usage: helped structure ideas, rewrite, and check clarity—while keeping strictly to the provided content.
+
