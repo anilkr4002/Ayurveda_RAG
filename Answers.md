@@ -213,8 +213,9 @@ answer_user_query(query):
 
 # Short Reflection 
 
-* Time spent: around 90 minutes.
+* Time spent: around 120 minutes.
 * Most interesting part: designing guardrails that maintain accuracy and brand tone.
 * Still unclear: how closely wording must match the original team’s style.
 * AI usage: helped structure ideas, rewrite, and check clarity—while keeping strictly to the provided content.
+
 
